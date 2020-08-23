@@ -1,2 +1,2 @@
-# calculator_with_javascript
+# calculator_javascript
 how to make calculator with javascript
